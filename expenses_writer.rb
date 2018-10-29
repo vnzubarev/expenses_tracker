@@ -2,7 +2,7 @@ require 'rexml/document' # xml parser
 require 'date'           # we will use operations with date
 
 puts 'Money spent on: '
-expense_text = STDIN.gets.chomp
+expense_text = STDIN.gets.chomp.downcase
 
 puts 'Amount: '
 expense_amount = STDIN.gets.chomp.to_i
