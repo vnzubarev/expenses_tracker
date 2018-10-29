@@ -10,8 +10,6 @@ expense_amount = STDIN.gets.chomp.to_i
 puts 'Spent date in a format 29.10.2018 (today, if empty): '
 date_input = STDIN.gets.chomp
 
-# expense_date = nil
-
 expense_date = if date_input.empty?
                  Date.today
                else

@@ -22,6 +22,9 @@
      mobile phoNe 
   </expense>
   <expense amount='23' category='clothes' date='2018-05-02'>
-    wallet
+     wallet 
+  </expense>
+  <expense amount='36' category='clothes' date='2018-10-29'>
+    new sweetshot
   </expense>
 </expenses>
