@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = UTF-8''?>
+
+<expenses>
+   <expense date = '09.09.2018' category = 'Education' amount = '20'>
+     Ruby on Rails book
+   </expense>
+   <expense date = '09.08.2018' category = 'Work' amount = '1200'>
+    Goods for my shop on Amazon
+   </expense>
+   <expense date = '12.09.2018' category = 'Hobby' amount = '500'>
+    Photo camera
+   </expense>
+</expenses>
