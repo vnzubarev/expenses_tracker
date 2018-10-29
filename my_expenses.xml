@@ -1,13 +1,27 @@
-<?xml version = '1.0' encoding = UTF-8''?>
-
+<?xml version='1.0'?> 
 <expenses>
-   <expense date = '09.09.2018' category = 'Education' amount = '20'>
-     Ruby on Rails book
-   </expense>
-   <expense date = '09.08.2018' category = 'Work' amount = '1200'>
-    Goods for my shop on Amazon
-   </expense>
-   <expense date = '12.09.2018' category = 'Hobby' amount = '500'>
-    Photo camera
-   </expense>
+  <expense amount='20' category='education' date='2018-09-21'>
+     Ruby on Rails book 
+  </expense>
+  <expense amount='1200' category='work' date='2018-10-09'>
+     Goods for my shop on Amazon 
+  </expense>
+  <expense amount='500' category='hobby' date='2018-09-12'>
+     Photo camera 
+  </expense>
+  <expense amount='400' category='education' date='2018-10-29'>
+     Courses 
+  </expense>
+  <expense amount='35' category='education' date='2017-12-22'>
+     book 
+  </expense>
+  <expense amount='65' category='clothes' date='2018-10-29'>
+     backpack 
+  </expense>
+  <expense amount='330' category='gadgets' date='2016-02-15'>
+     mobile phoNe 
+  </expense>
+  <expense amount='23' category='clothes' date='2018-05-02'>
+    wallet
+  </expense>
 </expenses>
