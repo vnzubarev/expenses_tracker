@@ -25,6 +25,9 @@
      wallet 
   </expense>
   <expense amount='36' category='clothes' date='2018-10-29'>
-    new sweetshot
+     new sweetshot 
+  </expense>
+  <expense amount='5' category='food' date='2018-11-23'>
+    honey
   </expense>
 </expenses>
