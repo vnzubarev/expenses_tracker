@@ -1,8 +1,8 @@
-# Expenses_tracker
+# Expenses tracker
 
-__Expenses_tracker__ is an XML parser from scratch for adding and reading information from XML file. 
+__Expenses tracker__ is an XML parser from scratch for adding and reading information from XML file. 
 
-You can add expense to `my_expenses.xml` file and read your expenses from it.
+With this small app you can add your expense to `my_expenses.xml` file and read all expenses from it.
 
 ver.: 0.9
 
